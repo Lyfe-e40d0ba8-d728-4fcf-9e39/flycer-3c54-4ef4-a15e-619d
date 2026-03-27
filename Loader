@@ -2,7 +2,7 @@ return {
 	-- Quiet or Die
     [126922689754590] = "https://raw.githubusercontent.com/Lyfe-e40d0ba8-d728-4fcf-9e39/flycer-7314-45a4-ab20-supported/main/QuietOrDie",
     -- Scary Shawarma Kiosk: ANOMALY [horror]
-    [128001665358186] = "https://raw.githubusercontent.com/fc1fa85c-3ed740c4147ca0b1d1b752b95206c5/list/main/ScaryShawarmaKioskAnomalies",
+    [128001665358186] = "https://raw.githubusercontent.com/Lyfe-e40d0ba8-d728-4fcf-9e39/flycer-7314-45a4-ab20-supported/main/ScaryShawarmaKiosk",
     -- SAWAH Indo [Voice Chat]
     [83369512629707] = "https://raw.githubusercontent.com/fc1fa85c-3ed740c4147ca0b1d1b752b95206c5/list/main/SawahIndo",
     -- Invade the World
