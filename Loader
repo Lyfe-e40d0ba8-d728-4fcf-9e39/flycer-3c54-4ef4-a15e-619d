@@ -1,0 +1,12 @@
+return {
+	-- Quiet or Die
+    [126922689754590] = "https://raw.githubusercontent.com/fc1fa85c-3ed740c4147ca0b1d1b752b95206c5/list/main/QuietOrDie",
+    -- Bakso Malang Anomalies
+    [77338972879392] = "https://raw.githubusercontent.com/fc1fa85c-3ed740c4147ca0b1d1b752b95206c5/list/main/BaksoMalangAnomalies",
+    -- Scary Shawarma Kiosk: ANOMALY [horror]
+    [128001665358186] = "https://raw.githubusercontent.com/fc1fa85c-3ed740c4147ca0b1d1b752b95206c5/list/main/ScaryShawarmaKioskAnomalies",
+    -- SAWAH Indo [Voice Chat]
+    [83369512629707] = "https://raw.githubusercontent.com/fc1fa85c-3ed740c4147ca0b1d1b752b95206c5/list/main/SawahIndo",
+    -- Invade the World
+    [9251333102] = "https://raw.githubusercontent.com/fc1fa85c-3ed740c4147ca0b1d1b752b95206c5/list/main/InvadetheWorld",
+}
