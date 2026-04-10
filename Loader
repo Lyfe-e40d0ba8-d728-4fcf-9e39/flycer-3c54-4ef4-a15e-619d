@@ -1,10 +1,4 @@
 return {
-	-- Quiet or Die
-    [126922689754590] = "https://raw.githubusercontent.com/Lyfe-e40d0ba8-d728-4fcf-9e39/flycer-7314-45a4-ab20-supported/main/QuietOrDie",
-    -- Scary Shawarma Kiosk: ANOMALY [horror]
-    [128001665358186] = "https://raw.githubusercontent.com/Lyfe-e40d0ba8-d728-4fcf-9e39/flycer-7314-45a4-ab20-supported/main/ScaryShawarmaKiosk",
-    -- SAWAH Indo [Voice Chat]
-    [83369512629707] = "https://raw.githubusercontent.com/Lyfe-e40d0ba8-d728-4fcf-9e39/flycer-7314-45a4-ab20-supported/main/SAWAHIndo",
-    -- Invade the World
-    [9251333102] = "https://raw.githubusercontent.com/Lyfe-e40d0ba8-d728-4fcf-9e39/flycer-7314-45a4-ab20-supported/main/InvadeTheWorld",
+	-- Quarantine Border [HORROR]
+    [110983155735084] = "https://raw.githubusercontent.com/Lyfe-e40d0ba8-d728-4fcf-9e39/supported-b045ccea-1f23-4201-866b-0b3c3381cdba/main/QuarantineBorder",
 }
