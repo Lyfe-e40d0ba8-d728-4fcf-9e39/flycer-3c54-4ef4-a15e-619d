@@ -1,6 +1,6 @@
 return {
     -- Bakso Malang Anomalies
-    [77338972879392] = "https://pandadevelopment.net/virtual/file/8c4ffff386145ea3",
+    [77338972879392] = "https://raw.githubusercontent.com/Lyfe-e40d0ba8-d728-4fcf-9e39/flycer-3c54-4ef4-a15e-619d/main/product/QuarantineBorders.lua",
     -- Quiet or Die
     [126922689754590] = "https://pandadevelopment.net/virtual/file/d6f08568f82b9cf7",
     -- Escape Tsunami For Brainrots
